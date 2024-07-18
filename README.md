@@ -20,7 +20,9 @@ https://docs.google.com/document/d/1IlkL8cfaU4vePypEAbrS2kJbST0mLFT-/edit?usp=dr
 
 **Featured Projects:**
 - **Sales Analysis Dashboard**: An interactive dashboard analyzing sales data to identify best selling and profitable car models .
-- **Enhancing customer service performance**: This project focuses on analyzing the customer service performance of PhoneNow by examining various metrics related to call handling, customer satisfaction, and agent performance. 
+- **Enhancing customer service performance**: This project focuses on analyzing the customer service performance of PhoneNow by examining various metrics related to call handling, customer satisfaction, and agent performance.
+- **Customer Churn**: This project's objective is to uncover trends and provide actionable recommendations to improve customer retention, satisfaction, and loyalty for Chinooks' sustained growth.
+  
 
 **Key Skills:**
 - Data Visualization (Python, Excel, Power BI)
@@ -87,14 +89,20 @@ Key insights reveal that streaming and technical support requests are the most f
 To enhance customer satisfaction, key strategies include analyzing feedback, improving agent training, and streamlining service processes for faster issue resolution. Optimizing staffing during peak periods involves adjusting staffing levels, implementing flexible schedules, and possibly hiring additional agents. To minimize call answering speed, investing in advanced call routing and considering part-time staff during busy times are recommended. Leveraging top agent performance, such as benchmarking Jim’s methods and establishing mentorship programs, can foster continuous improvement. Focusing on resolution rates includes enhancing the knowledge base, conducting regular performance reviews, and implementing incentives for high performance. Maintaining high call answer rates will require ongoing process optimization, robust monitoring, and offering callback options for customers during peak times.
 
 
+#### Project 3: Customer Churn
+# Project Link: https://github.com/Jay0494/Customer-churn
 
+**Brief description**
+The project, initiated by the Freebies WhatsApp Group, aims to identify customers at risk of churning from Chinooks, a music streaming service. By analyzing cleaned and prepared customer, transaction, and behavioral data from the Chinooks Database, the team seeks to uncover trends and develop strategies to improve customer retention and loyalty. The ultimate goal is to enhance Chinooks' growth and stability by addressing potential churn proactively.
 
+**Methodology**
+- The data was provided as a zip file from which we extracted the relevant data.
+- The major data cleaning process took place in Python using pandas.
+- The cleaned data was then exported to powerbi for more processing and visualization
 
+### Results
+The churn rate is high at 49.2%, signaling an urgent need for retention strategies. The USA and Canada dominate in both revenue and customer base, while France and Brazil, despite high revenue, have smaller customer bases, suggesting growth opportunities. Countries like Finland, Netherlands, and Portugal contribute revenue but have few customers, indicating untapped market potential.
 
-
-
-
-
-
-
+#### Recommendations
+To address churn and growth opportunities, focus on personalized marketing and loyalty programs in high churn areas, enhance service quality through better support and user interface improvements, and expand in high-revenue but low-customer countries like France and Brazil with targeted promotions. Use advanced analytics to predict and mitigate churn, and implement regular feedback systems to continuously refine services.
 
