@@ -8,7 +8,7 @@ Hello, I’m Elijah, a dedicated data analyst and BI developer with a strong tra
 "With over 5 years of experience in data analysis, I have developed a strong skill set in Data processing, Data visualization and predictive modeling. I have worked on various projects that have significantly contributed to business success."
 
 **Resume:**
-https://docs.google.com/document/d/1IlkL8cfaU4vePypEAbrS2kJbST0mLFT-/edit?usp=drivesdk&ouid=116717436317216957676&rtpof=true&sd=true
+https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=drivesdk&ouid=116717436317216957676&rtpof=true&sd=true
 
 **Skills:**
 - Programming Languages: Python, and SQL
