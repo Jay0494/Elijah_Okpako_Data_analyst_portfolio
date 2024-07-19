@@ -16,7 +16,7 @@ https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=dr
 - Statistical Methods: Regression Analysis.
 
 **Achievements:**
-- Awarded 'Employee of the Year' for outstanding contributions to data-driven decision making at General Hospital Auchi 
+- Awarded 'Employee of the Year' for outstanding contributions to data-driven decision making at Ambydated Foods Limited. 
 
 **Featured Projects:**
 - **Sales Analysis Dashboard**: An interactive dashboard analyzing sales data to identify best selling and profitable car models .
