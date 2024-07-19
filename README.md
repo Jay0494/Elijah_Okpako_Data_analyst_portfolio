@@ -85,7 +85,7 @@ Using ETL:
 **Results:**
 Key insights reveal that streaming and technical support requests are the most frequent, suggesting a need for additional resources in these areas. The highest call volume occurs in the afternoon, indicating a need for optimized staffing during peak times. The average satisfaction rating of 2.76 shows room for improvement through enhanced agent training and service processes. While the average call answering speed is reasonable at 54.75 seconds, reducing this time could further improve customer experience. Top agent Jim serves as a benchmark for performance enhancement across the team. Additionally, a call resolution rate of 72.92% and an 81.08% call answer rate demonstrate PhoneNow’s effectiveness in addressing customer inquiries.
 
-** Recommendation:**
+**Recommendation:**
 To enhance customer satisfaction, key strategies include analyzing feedback, improving agent training, and streamlining service processes for faster issue resolution. Optimizing staffing during peak periods involves adjusting staffing levels, implementing flexible schedules, and possibly hiring additional agents. To minimize call answering speed, investing in advanced call routing and considering part-time staff during busy times are recommended. Leveraging top agent performance, such as benchmarking Jim’s methods and establishing mentorship programs, can foster continuous improvement. Focusing on resolution rates includes enhancing the knowledge base, conducting regular performance reviews, and implementing incentives for high performance. Maintaining high call answer rates will require ongoing process optimization, robust monitoring, and offering callback options for customers during peak times.
 
 
