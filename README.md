@@ -22,6 +22,7 @@ https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=dr
 - **Sales Analysis Dashboard**: An interactive dashboard analyzing sales data to identify best selling and profitable car models .
 - **Enhancing customer service performance**: This project focuses on analyzing the customer service performance of PhoneNow by examining various metrics related to call handling, customer satisfaction, and agent performance.
 - **Customer Churn**: This project's objective is to uncover trends and provide actionable recommendations to improve customer retention, satisfaction, and loyalty for Chinooks' sustained growth.
+- **Social buzz Project**:Social Buzz is a leading social media platform that connects users with content spanning various categories, fostering vibrant discussions and interactions. To better understand user engagement and improve the overall user experience, I conducted an in-depth analysis of user behavior across different content categories, sentiment scores, reaction types, and content formats.
   
 
 **Key Skills:**
@@ -36,10 +37,10 @@ https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=dr
 
 
 
-## Project Pages
+#### Project Pages
 
-#### Project 1: Sales Analysis Dashboard
-# Project link: https://github.com/Jay0494/Jay-s-data-analysis-project
+# Project 1: Sales Analysis Dashboard
+### Project link: https://github.com/Jay0494/Jay-s-data-analysis-project
 
 **Title and Brief Description:**
 "Sales Analysis Dashboard: .This project analyzes car sales data from an American automotive business to identify the most profitable and highest-selling car models. The report highlights the top 10 car models by revenue, the bottom 10 by sales, and the top 10 by profit. Insights gained from this analysis inform strategic recommendations aimed at optimizing future sales efforts and enhancing profitability."
@@ -67,8 +68,8 @@ The financial overview shows a total revenue of **$11,968,694.69**, total profit
 
 
 
-#### Project 2: Enhancing customer service performance
-# Project link: https://github.com/Jay0494/Omnipresent_project_on_forage
+# Project 2: Enhancing customer service performance
+### Project link: https://github.com/Jay0494/Omnipresent_project_on_forage
 
 **Title and Brief Description:**
 Omnipresent's customer service center utilizes data visualizations to analyze key performance metrics such as average satisfaction ratings, answering speed, total calls resolved, and agent performance. Insights from the data reveal trends in call resolution, customer satisfaction, and call distribution throughout the day, aiding in performance optimization.
@@ -89,8 +90,8 @@ Key insights reveal that streaming and technical support requests are the most f
 To enhance customer satisfaction, key strategies include analyzing feedback, improving agent training, and streamlining service processes for faster issue resolution. Optimizing staffing during peak periods involves adjusting staffing levels, implementing flexible schedules, and possibly hiring additional agents. To minimize call answering speed, investing in advanced call routing and considering part-time staff during busy times are recommended. Leveraging top agent performance, such as benchmarking Jim’s methods and establishing mentorship programs, can foster continuous improvement. Focusing on resolution rates includes enhancing the knowledge base, conducting regular performance reviews, and implementing incentives for high performance. Maintaining high call answer rates will require ongoing process optimization, robust monitoring, and offering callback options for customers during peak times.
 
 
-#### Project 3: Customer Churn
-# Project Link: https://github.com/Jay0494/Customer-churn
+# Project 3: Customer Churn
+### Project Link: https://github.com/Jay0494/Customer-churn
 
 **Brief description**
 The project, initiated by the Freebies WhatsApp Group, aims to identify customers at risk of churning from Chinooks, a music streaming service. By analyzing cleaned and prepared customer, transaction, and behavioral data from the Chinooks Database, the team seeks to uncover trends and develop strategies to improve customer retention and loyalty. The ultimate goal is to enhance Chinooks' growth and stability by addressing potential churn proactively.
@@ -106,3 +107,20 @@ The churn rate is high at 49.2%, signaling an urgent need for retention strategi
 #### Recommendations
 To address churn and growth opportunities, focus on personalized marketing and loyalty programs in high churn areas, enhance service quality through better support and user interface improvements, and expand in high-revenue but low-customer countries like France and Brazil with targeted promotions. Use advanced analytics to predict and mitigate churn, and implement regular feedback systems to continuously refine services.
 
+# Project 4: Social Buzz
+### Project Link: https://github.com/Jay0494/social_buzz_project
+
+**Brief description** 
+### Introduction
+
+Social Buzz is a premier social media platform dedicated to connecting users with a diverse range of content, encouraging dynamic discussions and interactions. To gain a deeper understanding of user engagement and enhance the overall user experience, Social Buzz undertook a comprehensive analysis of user behavior. This analysis focused on various content categories, sentiment scores, reaction types, and content formats, aiming to uncover key insights and guide strategic improvements.
+
+**Methodology**
+- The datasets were extracted from forage.com as csv files and imported into power query for processing.
+- After cleaning the data was loaded into excel for analysis using pivot tables.
+
+#### Results 
+The analysis of user behavior on Social Buzz reveals several key insights. The most popular content categories by user count are Animals (1788 users), Science (1646 users), Healthy Eating (1572 users), Technology (1557 users), and Food (1556 users). In terms of sentiment, the highest scores are found in the categories of Animals (69,624), Science (65,405), Healthy Eating (63,138), Technology (60,035), and Food (61,596). The most common user reactions are "Heart" (6.64%), "Peeking" (6.38%), "Scared" (6.34%), and "Adore" (6.17%), while the least common reactions are "Worried" and "Intrigued" (both at 5.01%). Overall, user sentiments are predominantly positive (56%), with neutral sentiments at 13% and negative sentiments at 31%. Regarding content type preferences, users engage most with Photos (27%) and Videos (25%), followed by GIFs (25%) and Audio (23%). These results highlight the importance of certain content categories and types in driving user engagement and positive sentiment on the platform.
+
+##### Recommendations 
+To enhance user engagement and overall experience on Social Buzz, it is recommended to focus on creating and promoting content in the highly popular categories of "Animals" and "Science." Improving user reactions by addressing negative sentiments and fostering a positive environment is crucial. Prioritizing photos and videos, which have high engagement rates, while balancing with audio and GIF content will optimize content type. Additionally, leveraging user reaction data to personalize content suggestions can ensure users see more content they respond positively to, boosting satisfaction and engagement.
