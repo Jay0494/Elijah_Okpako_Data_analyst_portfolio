@@ -24,12 +24,15 @@ https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=dr
 - **Enhancing customer service performance**: This project focuses on analyzing the customer service performance of PhoneNow by examining various metrics related to call handling, customer satisfaction, and agent performance.
 - **Customer Churn**: This project's objective is to uncover trends and provide actionable recommendations to improve customer retention, satisfaction, and loyalty for Chinooks' sustained growth.
 - **Social buzz Project**:Social Buzz is a leading social media platform that connects users with content spanning various categories, fostering vibrant discussions and interactions. To better understand user engagement and improve the overall user experience, I conducted an in-depth analysis of user behavior across different content categories, sentiment scores, reaction types, and content formats.
-  
+- **Coffee shop project**
+  This project analyzes sales data for an American coffee shop, examining coffee brand preferences, sales trends, demand patterns, and payment methods. The goal is to understand customer behavior, optimize inventory, and enhance sales strategies.
 
 **Key Skills:**
 - Data Visualization (Python, Excel, Power BI)
-- Statistical Analysis (Python)
+- Data wrangling(Python, Power query, SQL) 
 - SQL and Database Management
+- Communication skills
+- Strategic Planning 
 
 **Contact Information:**
 - Email: elijah0494@gmail.com
@@ -38,12 +41,12 @@ https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=dr
 
 
 
-#### Project Pages
+# PROJECTS
 
 # Project 1: Sales Analysis Dashboard
 ### Project link: https://github.com/Jay0494/Jay-s-data-analysis-project
 
-**Title and Brief Description:**
+**Brief Description:**
 "Sales Analysis Dashboard: .This project analyzes car sales data from an American automotive business to identify the most profitable and highest-selling car models. The report highlights the top 10 car models by revenue, the bottom 10 by sales, and the top 10 by profit. Insights gained from this analysis inform strategic recommendations aimed at optimizing future sales efforts and enhancing profitability."
 
 **Objective:**
