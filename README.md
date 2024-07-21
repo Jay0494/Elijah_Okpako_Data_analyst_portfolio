@@ -5,7 +5,7 @@ Hello, I’m Elijah, a dedicated data analyst and BI developer with a strong tra
 ### About Me
 
 **Biography:**
-"With over 5 years of experience in data analysis, I have developed a strong skill set in Data processing, Data visualization and Data analytics with interests in sales and HR analytics. I have worked on various projects that have significantly contributed to business success."
+With over 5 years of experience in data analysis, I have developed a strong skill set in Data processing, Data visualization and Data analytics with interests in sales and HR analytics. I have worked on various projects that have significantly contributed to business success.
 
 **Resume:**
 https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=drivesdk&ouid=116717436317216957676&rtpof=true&sd=true
