@@ -71,7 +71,7 @@ The financial overview shows a total revenue of **$11,968,694.69**, total profit
 # Project 2: Enhancing customer service performance
 ### Project link: https://github.com/Jay0494/Omnipresent_project_on_forage
 
-**Title and Brief Description:**
+**Brief Description:**
 Omnipresent's customer service center utilizes data visualizations to analyze key performance metrics such as average satisfaction ratings, answering speed, total calls resolved, and agent performance. Insights from the data reveal trends in call resolution, customer satisfaction, and call distribution throughout the day, aiding in performance optimization.
 
 **Objective:**
@@ -111,8 +111,6 @@ To address churn and growth opportunities, focus on personalized marketing and l
 ### Project Link: https://github.com/Jay0494/social_buzz_project
 
 **Brief description** 
-### Introduction
-
 Social Buzz is a premier social media platform dedicated to connecting users with a diverse range of content, encouraging dynamic discussions and interactions. To gain a deeper understanding of user engagement and enhance the overall user experience, Social Buzz undertook a comprehensive analysis of user behavior. This analysis focused on various content categories, sentiment scores, reaction types, and content formats, aiming to uncover key insights and guide strategic improvements.
 
 **Methodology**
