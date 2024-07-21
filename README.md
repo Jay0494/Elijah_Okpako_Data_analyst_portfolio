@@ -1,11 +1,12 @@
 
+![istockphoto-1465316259-1024x1024](https://github.com/user-attachments/assets/8516d78e-306f-4b2b-b1fc-9bebe286749a)
+
+
 # **Introduction:**
+Hello, I’m Elijah, a dedicated Data Analyst and BI Developer with a proven track record in transforming raw data into actionable insights. My expertise spans key areas such as sales forecasting, data visualization, statistical analysis, HR data analytics, sales analysis, and fraud detection analysis. Welcome to my portfolio, where I showcase my work and skills, demonstrating my commitment to driving data-driven decision-making and delivering impactful results. Explore my projects and discover how I leverage data to unlock business potential and foster growth.
 
-Hello, I’m Elijah, a dedicated data analyst and BI developer with a strong track record in transforming raw data into actionable insights. My expertise lies in key areas such as sales forecasting, data visualization, and statistical analysis. Welcome to my portfolio, where I present my work and skills, highlighting my commitment to driving data-driven decision-making.
-### About Me
-
-**Biography:**
-With over 5 years of experience in data analysis, I have developed a strong skill set in Data processing, Data visualization and Data analytics with interests in sales and HR analytics. I have worked on various projects that have significantly contributed to business success.
+## Biography
+With over 5 years of experience in data analysis, I have developed a strong skill set in Data processing, Data visualization and Data analytics with interests in Sales and HR analytics. I have worked on various projects that have significantly contributed to business success.
 
 **Resume:**
 https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=drivesdk&ouid=116717436317216957676&rtpof=true&sd=true
@@ -115,10 +116,35 @@ Social Buzz is a premier social media platform dedicated to connecting users wit
 
 **Methodology**
 - The datasets were extracted from forage.com as csv files and imported into power query for processing.
-- After cleaning the data was loaded into excel for analysis using pivot tables.
+- After cleaning the data was loaded into excel for analysis.
 
 #### Results 
 The analysis of user behavior on Social Buzz reveals several key insights. The most popular content categories by user count are Animals (1788 users), Science (1646 users), Healthy Eating (1572 users), Technology (1557 users), and Food (1556 users). In terms of sentiment, the highest scores are found in the categories of Animals (69,624), Science (65,405), Healthy Eating (63,138), Technology (60,035), and Food (61,596). The most common user reactions are "Heart" (6.64%), "Peeking" (6.38%), "Scared" (6.34%), and "Adore" (6.17%), while the least common reactions are "Worried" and "Intrigued" (both at 5.01%). Overall, user sentiments are predominantly positive (56%), with neutral sentiments at 13% and negative sentiments at 31%. Regarding content type preferences, users engage most with Photos (27%) and Videos (25%), followed by GIFs (25%) and Audio (23%). These results highlight the importance of certain content categories and types in driving user engagement and positive sentiment on the platform.
 
 ##### Recommendations 
 To enhance user engagement and overall experience on Social Buzz, it is recommended to focus on creating and promoting content in the highly popular categories of "Animals" and "Science." Improving user reactions by addressing negative sentiments and fostering a positive environment is crucial. Prioritizing photos and videos, which have high engagement rates, while balancing with audio and GIF content will optimize content type. Additionally, leveraging user reaction data to personalize content suggestions can ensure users see more content they respond positively to, boosting satisfaction and engagement.
+
+# Project 5: Coffee shop project
+### Project Link: https://github.com/Jay0494/Coffee-shop-project
+
+**Brief description** 
+This project provides a comprehensive analysis of sales data for an American coffee shop, focusing on various dimensions such as coffee brand preferences, sales trends, demand patterns, and payment methods. The objective is to understand customer behavior, optimize inventory, and enhance sales strategies.
+
+**Methodology**
+- Data was extracted from kaggle as a csv file and imported into power query.
+- In power query irrelevant columns were removed and data types were correctly formatted.
+- The cleaned data was then imported into Excel for analysis.
+
+#### Results
+Latte, Americano with Milk, and Cappuccino are the top-selling and most demanded coffee items, while Espresso and Cocoa have the lowest sales and demand. June saw the highest sales at $9,063.42, whereas July had the lowest at $2,473.70. Sales are higher in the afternoon (72%) compared to the morning (28%), with 91% of transactions made by card. The sales forecast indicates a slight decrease but remains stable overall.
+
+##### Recommendations 
+- Feature Latte, Americano with Milk, and Cappuccino in promotions and loyalty programs.
+- Review pricing and positioning for Espresso and Cocoa; consider limited-time promotions or menu removal.
+- Boost July sales with targeted campaigns and summer specials.
+- Introduce morning specials to balance sales.
+- Optimize card payments and add digital options.
+- Maintain stability by adjusting strategies based on sales data and feedback.
+- Use purchase data for personalized campaigns and enhance loyalty programs.
+- Introduce new flavors and gather customer feedback for improvements.
+- Optimize inventory and train staff for peak times.
