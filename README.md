@@ -155,5 +155,22 @@ Latte, Americano with Milk, and Cappuccino are the top-selling and most demanded
 
 # Project 6: Customer churn insights with SQL - Chinook Database
 ### Project Link: https://github.com/Jay0494/Freebees-project/tree/main
+**Brief description**
+In this project, I analyzed customer churn using the Chinook database, aiming to uncover key factors influencing customer retention and to develop strategies to improve it. The Chinook database provided a realistic and robust dataset for exploring customer behavior and churn patterns. By leveraging SQL for data exploration, cleaning, and analysis, I delved into customer data to identify actionable insights. 
 
-  
+**Methodology**
+**Data Exploration and Preparation**
+
+- The project started with an in-depth exploration of the Chinook database, where I examined the schema to understand table relationships and data types.
+- I assessed data quality through detailed analysis, addressing issues such as missing values, duplicates, and inconsistencies to prepare the dataset for comprehensive analysis.
+
+
+# STEPS TO RESOLVE CUSTOMER CHURN
+- Keep customers informed about new features, updates, and company news.
+- Interact with customers on social media platforms to build a sense of community.
+- Encourage satisfied customers to become brand advocates and refer others.
+- Use Customer Relationship Management (CRM) tools to manage and analyze customer interactions and data.
+- Employ predictive analytics to anticipate churn and take preemptive actions.
+- Automate routine customer engagement tasks to ensure timely and consistent communication.
+- Use data to predict potential issues and address them before they lead to churn.
+- Establish channels for ongoing customer feedback to address concerns in real-time.
