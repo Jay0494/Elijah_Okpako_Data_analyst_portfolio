@@ -20,12 +20,13 @@ https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=dr
 - Awarded 'Employee of the Year' for outstanding contributions to data-driven decision making at Ambydated Foods Limited. 
 
 **Featured Projects:**
-- **Sales Analysis Project**: An interactive dashboard analyzing sales data to identify best selling and profitable car models .
+- **Sales Analysis Project**: An interactive dashboard analyzing sales data to identify best selling and profitable car models.
 - **Enhancing customer service performance**: This project focuses on analyzing the customer service performance of PhoneNow by examining various metrics related to call handling, customer satisfaction, and agent performance.
 - **Customer Churn Project**: This project's objective is to uncover trends and provide actionable recommendations to improve customer retention, satisfaction, and loyalty for Chinooks' sustained growth.
 - **Social buzz Project**:Social Buzz is a leading social media platform that connects users with content spanning various categories, fostering vibrant discussions and interactions. To better understand user engagement and improve the overall user experience, I conducted an in-depth analysis of user behavior across different content categories, sentiment scores, reaction types, and content formats.
 - **Coffee shop project**
   This project analyzes sales data for an American coffee shop, examining coffee brand preferences, sales trends, demand patterns, and payment methods. The goal is to understand customer behavior, optimize inventory, and enhance sales strategies.
+- **Customer churn insights with SQL - Chinook Database**: In this project, I analyzed customer churn using the Chinook database, aiming to uncover key factors influencing customer retention and to develop strategies to improve it. The Chinook database provided a realistic and robust dataset for exploring customer behavior and churn patterns. 
 
 **Key Skills:**
 - Data Visualization (Python, Excel, Power BI)
@@ -151,3 +152,8 @@ Latte, Americano with Milk, and Cappuccino are the top-selling and most demanded
 - Use purchase data for personalized campaigns and enhance loyalty programs.
 - Introduce new flavors and gather customer feedback for improvements.
 - Optimize inventory and train staff for peak times.
+
+# Project 6: Customer churn insights with SQL - Chinook Database
+### Project Link: https://github.com/Jay0494/Freebees-project/tree/main
+
+  
