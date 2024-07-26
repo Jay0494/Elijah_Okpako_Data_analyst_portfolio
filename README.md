@@ -26,7 +26,9 @@ https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=dr
 - **Social buzz Project**:Social Buzz is a leading social media platform that connects users with content spanning various categories, fostering vibrant discussions and interactions. To better understand user engagement and improve the overall user experience, I conducted an in-depth analysis of user behavior across different content categories, sentiment scores, reaction types, and content formats.
 - **Coffee shop project**
   This project analyzes sales data for an American coffee shop, examining coffee brand preferences, sales trends, demand patterns, and payment methods. The goal is to understand customer behavior, optimize inventory, and enhance sales strategies.
-- **Customer churn insights with SQL - Chinook Database**: In this project, I analyzed customer churn using the Chinook database, aiming to uncover key factors influencing customer retention and to develop strategies to improve it. The Chinook database provided a realistic and robust dataset for exploring customer behavior and churn patterns. 
+- **Customer churn insights with SQL - Chinook Database**: In this project, I analyzed customer churn using the Chinook database, aiming to uncover key factors influencing customer retention and to develop strategies to improve it. The Chinook database provided a realistic and robust dataset for exploring customer behavior and churn patterns.
+- **HR project with Python and SQL**
+   This project analyzes the employee data for the HR department of Lina retail store, a Fictional store. The goal is to reward employee performance.
 
 **Key Skills:**
 - Data Visualization (Python, Excel, Power BI)
@@ -174,3 +176,15 @@ In this project, I analyzed customer churn using the Chinook database, aiming to
 - Automate routine customer engagement tasks to ensure timely and consistent communication.
 - Use data to predict potential issues and address them before they lead to churn.
 - Establish channels for ongoing customer feedback to address concerns in real-time.
+
+# Project 7: HR project with Python And SQL.
+### Project link: https://github.com/Jay0494/HR_project
+**Brief description**
+In this project I analyzed employee data to complete a task given to me by the HR department with the sole aim of rewarding the best intern and the best department which can in-turn boost the moral of the other employees to do better.
+**Methodology**
+**Data Exploration and Preparation**
+- The project started with an in-depth exploration of the employee data using pandas in python, where I examined the columns to understand the data.
+- I assessed data quality through detailed analysis, addressing issues such as missing values, duplicates, and inconsistencies to prepare the dataset for comprehensive analysis.
+**Conclusion**
+  After cleaning the data with python and we wrote queries in SQL to answer those tasks given which was then presented to the HR manager.
+  The results will help the HR department to reward great work among the interns. We also observed the best performing departments to boost and encourage hardwork.  
