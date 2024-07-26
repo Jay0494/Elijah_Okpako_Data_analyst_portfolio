@@ -3,7 +3,7 @@
 
 
 # **Introduction:**
-Hello, I’m Elijah, a dedicated Data Analyst and BI Developer with a proven track record in transforming raw data into actionable insights. My expertise spans key areas such as sales forecasting, data visualization, statistical analysis, HR data analytics, sales analysis, and fraud detection analysis. Welcome to my portfolio, where I showcase my work and skills, demonstrating my commitment to driving data-driven decision-making and delivering impactful results. Explore my projects and discover how I leverage data to unlock business potential and foster growth.
+Hello, I’m Elijah, a dedicated Data Analyst and BI Developer with a proven track record in transforming raw data into actionable insights. My expertise spans key areas such as sales forecasting, data visualization, statistical analysis, HR data analytics, sales analysis, and fraud detection analysis.  Welcome to my portfolio, where I showcase my work and skills, demonstrating my commitment to driving data-driven decision-making and delivering impactful results. Explore my projects and discover how I leverage data to unlock business potential and foster growth.
 
 ## Biography
 With over 5 years of experience in data analysis, I have developed a strong skill set in Data processing, Data visualization and Data analytics with interests in Sales and HR analytics. I have worked on various projects that have significantly contributed to business success.
