@@ -29,6 +29,8 @@ https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=dr
 - **Customer churn insights with SQL - Chinook Database**: In this project, I analyzed customer churn using the Chinook database, aiming to uncover key factors influencing customer retention and to develop strategies to improve it. The Chinook database provided a realistic and robust dataset for exploring customer behavior and churn patterns.
 - **HR project with Python and SQL**
    This project analyzes the employee data for the HR department of Lina retail store, a Fictional store. The goal is to reward employee performance.
+- **Customer churn with Powerbi**
+  The objective of this project is to find the customers who are at risk of churning i.e the customer who have not made any sales 6 months from 12/31/2013  
 
 **Key Skills:**
 - Data Visualization (Python, Excel, Power BI)
@@ -187,4 +189,17 @@ In this project I analyzed employee data to complete a task given to me by the H
 - I assessed data quality through detailed analysis, addressing issues such as missing values, duplicates, and inconsistencies to prepare the dataset for comprehensive analysis.
 **Conclusion**
   After cleaning the data with python and we wrote queries in SQL to answer those tasks given which was then presented to the HR manager.
-  The results will help the HR department to reward great work among the interns. We also observed the best performing departments to boost and encourage hardwork.  
+  The results will help the HR department to reward great work among the interns. We also observed the best performing departments to boost and encourage hardwork.
+
+  # Project 8: Customer churn with Powerbi
+  ### Project link: https://github.com/Jay0494/Chinooks-customer-churn-data-analysis-with-Powerbi-/tree/main  
+**Brief description**
+In this project I identified the customers at risk of churn using DAX to create a column to identify which customers were at risk of churn.
+```sql
+Churn = 
+VAR lastyearsales = MAX(Invoice[Date])
+VAR lastsales = EDATE(lastsales, -6)
+RETURN 
+Customer[last purchase] >= lastsales
+```
+
