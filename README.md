@@ -191,8 +191,8 @@ In this project I analyzed employee data to complete a task given to me by the H
   After cleaning the data with python and we wrote queries in SQL to answer those tasks given which was then presented to the HR manager.
   The results will help the HR department to reward great work among the interns. We also observed the best performing departments to boost and encourage hardwork.
 
-  # Project 8: Customer churn with Powerbi
-  ### Project link: https://github.com/Jay0494/Chinooks-customer-churn-data-analysis-with-Powerbi-/tree/main  
+# Project 8: Customer churn with Powerbi
+### Project link: https://github.com/Jay0494/Chinooks-customer-churn-data-analysis-with-Powerbi-/tree/main  
 **Brief description**
 In this project I identified the customers at risk of churn using DAX to create a column to identify which customers were at risk of churn.
 ```sql
