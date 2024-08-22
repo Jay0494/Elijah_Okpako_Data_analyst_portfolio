@@ -12,9 +12,10 @@ With over 5 years of experience in data analysis, I have developed a strong skil
 https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=drivesdk&ouid=116717436317216957676&rtpof=true&sd=true
 
 **Skills:**
-- Programming Languages: Python, and SQL
-- Data Visualization Tools: Excel and Power BI
-- Statistical Methods: Regression Analysis.
+- Programming Languages: Python.
+- Querying and data manipulation tools: SQL, DAX and Power query.
+- Data Visualization Tools: Excel, tableau and Power BI.
+- Database management: MySQL
 
 **Achievements:**
 - Awarded 'Employee of the Year' for outstanding contributions to data-driven decision making at Ambydated Foods Limited. 
