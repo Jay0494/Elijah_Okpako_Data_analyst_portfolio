@@ -28,6 +28,8 @@ https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=dr
 - **Coffee shop project**
   This project analyzes sales data for an American coffee shop, examining coffee brand preferences, sales trends, demand patterns, and payment methods. The goal is to understand customer behavior, optimize inventory, and enhance sales strategies.
 - **Customer churn insights with SQL - Chinook Database**: In this project, I analyzed customer churn using the Chinook database, aiming to uncover key factors influencing customer retention and to develop strategies to improve it. The Chinook database provided a realistic and robust dataset for exploring customer behavior and churn patterns.
+-  **Superstore Sales Project Using PowerBi**
+   This project dives into sales data of a fictional superstore to uncover the performanace of the business. The goal is to be able to uncover hidden treasures that can lead to increase productivity of the business.
 - **HR project with Python and SQL**
    This project analyzes the employee data for the HR department of Lina retail store, a Fictional store. The goal is to reward employee performance.
 - **Customer churn with Powerbi**
@@ -98,7 +100,30 @@ Latte, Americano with Milk, and Cappuccino are the top-selling and most demanded
 - Introduce new flavors and gather customer feedback for improvements.
 - Optimize inventory and train staff for peak times.
 
+# SuperStore Sales PROJECT
 
+## **Deriving data insights for data-driven business decison-making**
+### Project link: https://github.com/Jay0494/Superstore_project
+
+**Brief Description:**
+This project analyzes retail superstore sales data using ETL and Power BI. Sourced from Kaggle, the data was cleaned and transformed to reveal insights into product performance, regional sales trends, and customer behavior. Key findings include opportunities to optimize inventory for high-demand products, boost sales in underperforming regions, and stabilize monthly sales volatility. Power BI dashboards provide interactive visualizations to support strategic decision-making.
+
+**Objective:**
+The objectives include Analyze sales performance by product category, region, and customer segment. Assess profit and growth trends to inform business strategy. Identify underperforming areas and suggest improvements for enhanced performance.
+
+**Methodology:**
+Using ETL:
+- Data Collection: Extracted the data from kaggle.com .
+- Data Cleaning: Processed and cleaned the data using power query.
+- Loaded the cleaned data into Powerbi desktop
+
+**Results:**
+Office Supplies, Technology, and Furniture are the top product categories, with Office Supplies generating $643.71K in revenue. The West region leads in sales at $505.41K, while the South is lowest at $258.52K. Annual sales grew by 177.29%, and profits increased by 114.2%. The Consumer segment makes up 50.79% of purchases, followed by Corporate at 30.06% and Home Office at 19.15%. Standard Class shipping is preferred by 58.48% of customers over Same Day shipping.
+
+**Recommendation:**
+- Optimize Inventory: Continue to stock high-demand items like Phones and Chairs and consider -discontinuing or bundling low-demand items such as Fasteners and Envelopes.
+- Targeted Marketing in Low-Performing Regions: Concentrate marketing efforts on the Central and South regions to increase their sales contribution.
+- Promote Premium Shipping: While Standard Class shipping is the most popular, offering incentives or free upgrades for higher-value purchases could encourage the use of premium shipping options.
 
 
 
