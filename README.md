@@ -100,7 +100,7 @@ Latte, Americano with Milk, and Cappuccino are the top-selling and most demanded
 - Introduce new flavors and gather customer feedback for improvements.
 - Optimize inventory and train staff for peak times.
 
-# SuperStore Sales PROJECT
+# **SuperStore Sales Project**
 
 ## **Deriving data insights for data-driven business decison-making**
 ### Project link: https://github.com/Jay0494/Superstore_project
