@@ -21,17 +21,29 @@ https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=dr
 - Awarded 'Employee of the Year' for outstanding contributions to data-driven decision making at Ambydated Foods Limited. 
 
 **Featured Projects:**
+- **Customer Insights**: A project analyzing customer service performance data to provide actionable insights for enhancing operational efficiency and improving customer satisfaction.
+  
+- **Customer Churn**: The primary objective of this project is to identify key drivers of customer churn, provide insights into customer retention trends, and recommend actionable strategies to improve retention and reduce churn.
+  
 - **Sales Analysis Project**: An interactive dashboard analyzing sales data to identify best selling and profitable car models.
+  
 - **Enhancing customer service performance**: This project focuses on analyzing the customer service performance of PhoneNow by examining various metrics related to call handling, customer satisfaction, and agent performance.
+  
 - **Customer Churn Project**: This project's objective is to uncover trends and provide actionable recommendations to improve customer retention, satisfaction, and loyalty for Chinooks' sustained growth.
+  
 - **Social buzz Project**:Social Buzz is a leading social media platform that connects users with content spanning various categories, fostering vibrant discussions and interactions. To better understand user engagement and improve the overall user experience, I conducted an in-depth analysis of user behavior across different content categories, sentiment scores, reaction types, and content formats.
+  
 - **Coffee shop project**
   This project analyzes sales data for an American coffee shop, examining coffee brand preferences, sales trends, demand patterns, and payment methods. The goal is to understand customer behavior, optimize inventory, and enhance sales strategies.
+  
 - **Customer churn insights with SQL - Chinook Database**: In this project, I analyzed customer churn using the Chinook database, aiming to uncover key factors influencing customer retention and to develop strategies to improve it. The Chinook database provided a realistic and robust dataset for exploring customer behavior and churn patterns.
--  **Superstore Sales Project Using PowerBi**
+  
+- **Superstore Sales Project Using PowerBi**
    This project dives into sales data of a fictional superstore to uncover the performanace of the business. The goal is to be able to uncover hidden treasures that can lead to increase productivity of the business.
+   
 - **HR project with Python and SQL**
    This project analyzes the employee data for the HR department of Lina retail store, a Fictional store. The goal is to reward employee performance.
+  
 - **Customer churn with Powerbi**
   The objective of this project is to find the customers who are at risk of churning i.e the customer who have not made any sales 6 months from 12/31/2013  
 
@@ -48,11 +60,39 @@ https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=dr
 
 
 
-# ANALYTICS PROJECTS 
+# PROJECTS 
 
-## **Customer insights**
-### Project Link: 
+## **Customer Insights**
+### Project Link: https://github.com/Jay0494/Omnipresent_telecommunication-project-
 
+**Brief Description**
+This project analyzes customer service performance data to provide actionable insights for enhancing operational efficiency and improving customer satisfaction. The data, gathered between January and March 2021, includes metrics such as call handling efficiency, agent performance, customer sentiment, and call abandonment rates. By examining these areas, this project aims to identify key areas for improvement and recommend strategies that align with best practices in customer service management.
+
+### **Recommendations**
+- Reduce Call Abandonment Rate: Implement strategies to reduce the 19% abandonment rate by decreasing the average wait time. This could involve:
+Increasing staffing during peak hours.
+Exploring automated self-service options for common customer issues.
+- Enhance Agent Performance: Conduct training sessions for agents with lower talk durations to ensure quality service is maintained.
+- Review call recordings to identify best practices from high-performing agents that can be shared with the rest of the team.
+- Optimize Staffing Levels: Based on the call traffic patterns, more agents should be assigned during peak times (e.g., 11 AM and 2 PM) to ensure that the workload is balanced and wait times are reduced.
+- Improve Customer Satisfaction: To lower the dissatisfaction rate, consider gathering specific feedback from dissatisfied customers. This can help identify recurring issues such as long wait times, insufficient resolutions, or agent performance gaps.
+
+## **Omnipresent-telecom customer churn insights** 
+### Project Link: https://github.com/Jay0494/customer_churn-omnipresent-telecom-project-
+
+**Brief Description:**
+The primary objective of this project is to identify key drivers of customer churn, provide insights into customer retention trends, and recommend actionable strategies to improve retention and reduce churn. This will be achieved by analyzing customer behavior patterns, contract types, payment methods, and service-related issues.
+
+**Recommendations**
+- Promote Long-Term Contracts: Encourage customers to switch to one- or two-year contracts by offering discounts, perks, or loyalty rewards. This could significantly reduce churn.
+
+- Targeted Payment Method Interventions: Customers using electronic checks have a notably higher churn rate. Offering incentives (e.g., discounts) to switch to automatic payment methods like credit cards or bank transfers could improve retention.
+
+- Improve Customer Experience with Fiber Optic Services: Since fiber optic customers have the highest churn despite using superior technology, investigate service quality, pricing, and customer service issues specific to these customers. Improved communication and support may help retain them.
+
+- Focus on Administrative Efficiency: The higher volume of administrative tickets indicates potential issues with billing, contracts, or account management. Streamlining these processes and improving the customer experience in this area may reduce churn.
+
+- Retention Programs for Customers Without Dependents: Since individuals without dependents are more likely to churn, tailor specific retention programs (e.g., personalized offers, product bundles) targeting single individuals or smaller households.
 
 
 ## **Sales Analysis Dashboard**
