@@ -48,7 +48,12 @@ https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=dr
 
 
 
-# SALES ANALYTICS PROJECTS 
+# ANALYTICS PROJECTS 
+
+## **Customer insights**
+### Project Link: 
+
+
 
 ## **Sales Analysis Dashboard**
 ### Project link: https://github.com/Jay0494/Jay-s-data-analysis-project
