@@ -21,6 +21,8 @@ https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=dr
 - Awarded 'Employee of the Year' for outstanding contributions to data-driven decision making at Ambydated Foods Limited. 
 
 **Featured Projects:**
+- **Sales Growth Analysis And Strategy Insights**: This project presents a detailed analysis of the sales growth, geographical market performance, and product profitability for Just In Time Inc., a multinational company specializing in sports apparel and equipment, during the fiscal years 2015 and 2016
+
 - **Customer Insights**: A project analyzing customer service performance data to provide actionable insights for enhancing operational efficiency and improving customer satisfaction.
   
 - **Customer Churn**: The primary objective of this project is to identify key drivers of customer churn, provide insights into customer retention trends, and recommend actionable strategies to improve retention and reduce churn.
@@ -61,6 +63,31 @@ https://docs.google.com/document/d/1T5rkebCjPguyPhqsBkeLeJikikXSQNQh/edit?usp=dr
 
 
 # PROJECTS 
+### Project Link: https://github.com/Jay0494/Datacamp-project-
+
+**Brief Description**
+This project presents a detailed analysis of the sales growth, geographical market performance, and product profitability for Just In Time Inc., a multinational company specializing in sports apparel and equipment, during the fiscal years 2015 and 2016. By examining the sales data, the project identifies key drivers of growth and areas for operational improvement. The objective is to provide strategic recommendations that can help the company sustain its rapid growth trajectory, optimize operational efficiency, and expand into underperforming markets.
+### **Recommendations**
+- **Expand in Low-Performing Regions and Markets**:
+Consider targeted marketing efforts or new product launches in underperforming regions like Southeast Asia, US Center, and Africa, which present opportunities for growth.
+Explore partnerships, local promotions, or region-specific products to tap into these underserved markets.
+
+- **Capitalize on Peak Seasons**:
+Focus on increasing inventory and marketing spend around key revenue-generating months like March, June, and December. Tailor promotional strategies to maximize revenue during these peak seasons.
+Plan for the April and September dips by introducing mid-season sales or special offers to maintain revenue momentum during slower periods.
+
+- **Leverage High-Profit Products and Categories**:
+Continue prioritizing top-performing products, such as the Perfect Rip Deck and Nike footwear, which show high profitability relative to sales volume.
+Invest in expanding the Cleats and Cardio Equipment categories, which generate significant profits, by introducing more product variations or bundling promotions.
+
+- **Boost Underperforming Departments**:
+Evaluate the Fitness and Outdoors departments to identify the reasons for their weaker performance. Consider reducing inventory or rebranding efforts, or launching new, more attractive products in these departments.
+Alternatively, consider reallocating resources to stronger-performing departments like Fan Shop and Apparel, which are driving the bulk of profits and revenue.
+
+- **Improve Profitability in High-Revenue Departments**:
+In departments with high revenue but lower profit margins (e.g., Footwear), investigate cost-reduction opportunities or price adjustments to boost profitability while maintaining sales volume.
+
+
 
 ## **Customer Insights**
 ### Project Link: https://github.com/Jay0494/Omnipresent_telecommunication-project-
